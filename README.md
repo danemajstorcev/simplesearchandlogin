@@ -1,1 +1,1 @@
-# simplesearchandlogin
+This is a simple login and search project
